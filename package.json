@@ -7,3 +7,5 @@
     "test": "test"
   },
   "scripts": {
+ "compile": "truffle compile -all",
+    "test": "truffle test",
