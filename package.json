@@ -9,3 +9,4 @@
   "scripts": {
  "compile": "truffle compile -all",
     "test": "truffle test",
+ "lint": "npm run lint:sol",
