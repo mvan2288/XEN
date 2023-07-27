@@ -20,3 +20,6 @@
     "XEN Crypto",
  "Ethereum",
   "ERC-20"
+  ],
+  "author": "J.Levin, L.Belyaev",
+  "license": "MIT",
