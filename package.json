@@ -39,3 +39,4 @@
  "abdk-libraries-solidity": "^3.0.0"
   },
  "files": [
+   "/build/contracts/*.json",
