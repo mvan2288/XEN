@@ -35,3 +35,4 @@
  "truffle-plugin-verify": "^0.5.28"
   },
   "dependencies": {
+"@openzeppelin/contracts": "^4.7.3",
