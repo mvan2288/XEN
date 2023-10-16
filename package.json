@@ -22,3 +22,5 @@
     "ERC-20"
   ],
   "author": "J.Levin, L.Belyaev",
+  "license": "MIT",
+  "devDependencies": {
