@@ -38,3 +38,5 @@
   "@openzeppelin/contracts": "^4.7.3",
    "abdk-libraries-solidity": "^3.0.0"
   },
+  "files": [
+    "/build/contracts/*.json",
