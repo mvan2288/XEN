@@ -10,4 +10,4 @@
  "compile": "truffle compile -all",
     "test": "truffle test",
  "lint": "npm run lint:sol",
- 
+  "lint:fix": "npm run lint:sol:fix",
