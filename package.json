@@ -11,3 +11,4 @@
     "test": "truffle test",
  "lint": "npm run lint:sol",
   "lint:fix": "npm run lint:sol:fix",
+  "lint:sol": "solhint 'contracts/**/*.sol' && prettier -c 'contracts/**/*.sol'",
