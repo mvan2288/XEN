@@ -24,3 +24,4 @@
   "author": "J.Levin, L.Belyaev",
  "license": "MIT",
   "devDependencies": {
+   "@ethersproject/units": "^5.7.0",
