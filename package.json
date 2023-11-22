@@ -40,3 +40,4 @@
   },
   "files": [
    "/build/contracts/*.json",
+ "/contracts/**/*.sol"
