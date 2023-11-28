@@ -15,3 +15,6 @@
   "lint:sol:fix": "prettier --write \"contracts/**/*.sol\""
   },
   "keywords": [
+"Fair Crypto Foundation",
+    "XEN",
+    "XEN Crypto",
