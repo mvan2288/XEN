@@ -25,3 +25,4 @@
  "license": "MIT",
   "devDependencies": {
  "@ethersproject/units": "^5.7.0",
+"@truffle/hdwallet-provider": "^2.0.13",
