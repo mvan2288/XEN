@@ -33,3 +33,6 @@
  "solhint": "^3.3.7",
     "truffle-assertions": "^0.9.2",
 "truffle-plugin-verify": "^0.5.28"
+ },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
